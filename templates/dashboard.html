@@ -130,43 +130,28 @@
 
 <div class="card text-center" style="margin:25px;">
   <div class="card-header">
-    WhatsApp
+    Google
   </div>
   <div class="card-body">
     <h5 class="card-title">Google</h5>
 
 
-  {% if whatsstat == 'off' %}
+
     <form action="/dow" method="POST">
-  <input  id="id" name="id" value="{{ whatsid }}">
+  <input  id="keywords" name="keywords" placeholder="Kewords, words to get into search">
       <div class="form-group">
-    <label for="exampleFormControlSelect1">Example select</label>
-    <select class="form-control" id="exampleFormControlSelect1">
-      <option>1</option>
-      <option>2</option>
-      <option>3</option>
-      <option>4</option>
-      <option>5</option>
+    <label for="exampleFormControlSelect1">Select Focus of your search</label>
+    <select class="form-control" id="Operation" name="Operation">
+      <option>Instagram</option>
+      <option>Google Search</option>
+
     </select>
   </div>
     <button type="submit" class="btn btn-primary">Iniciar</button>
       </form>
-    {% else %}
-      <form action="/dowof" method="POST">
-  <input  id="idof" name="idof" value="{{ whatsid }}">
-        <div class="form-group">
-    <label for="exampleFormControlSelect1">Example select</label>
-    <select class="form-control" id="exampleFormControlSelect1">
-      <option>1</option>
-      <option>2</option>
-      <option>3</option>
-      <option>4</option>
-      <option>5</option>
-    </select>
-  </div>
-    <button type="submit" class="btn btn-primary">Apagar</button>
-        </form>
-    {% endif %}
+
+
+
 
 
 
@@ -177,22 +162,22 @@
 
 <div class="card text-center" style="margin:25px;">
   <div class="card-header">
-    Facebook
+    Instagram
   </div>
   <div class="card-body">
     <h5 class="card-title">Instagram</h5>
 
-  {% if facestat == 'off' %}
+
     <form action="/dof" method="POST">
-  <input  id="idfa" name="idfa" value="{{ faceid }}">
+      <input  id="usuario" name="usuario" placeholder="Insta Username">
+      <input  id="clave" name="clave" placeholder="Insta Password">
+  <input  id="hashtag" name="hashtag" placeholder="Insert HasTag to Search">
+
     <button type="submit" class="btn btn-primary">Iniciar</button>
       </form>
-    {% else %}
-      <form action="/dofof" method="POST">
-  <input  id="idfaof" name="idfaof" value="{{ faceid }}">
-    <button type="submit" class="btn btn-primary">Apagar</button>
-        </form>
-    {% endif %}
+
+
+
 
 
 

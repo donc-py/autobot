@@ -82,9 +82,16 @@ def dow():
 
     if sys.platform == "win32":
 
-        cursor1.execute("""UPDATE bots SET status = %s WHERE id = %s""", ('on', request.form['id']))
-        mariadb_connection.commit()
-        os.startfile('script1.py')
+        #cursor1.execute("""UPDATE bots SET status = %s WHERE id = %s""", ('on', request.form['id']))
+        #mariadb_connection.commit()
+        import subprocess
+        UDP_IP = request.form['keywords']
+        #user = request.form['username']
+        #clave = request.form['clave']
+        print(UDP_IP)
+        #subprocess.Popen(["script4.py", UDP_IP])
+        os.system('python script4.py {}'.format(UDP_IP))
+        #os.startfile('script4.py {}'.format(UDP_IP))
         return dashboard()
     else:
 
@@ -96,11 +103,13 @@ def dow():
 def dof():
     mariadb_connection = mariadb.connect(user='root', password='', database='autobot', host='127.0.0.1', port='3306')
     cursor1 = mariadb_connection.cursor()
-
+    UDP_IP = str(request.form['hashtag'])
+    user = request.form['usuario']
+    clave = request.form['clave']
     if sys.platform == "win32":
-        cursor1.execute("""UPDATE bots SET status = %s WHERE id = %s""", ('on', request.form['idfa']))
-        mariadb_connection.commit()
-        os.startfile('script2.py')
+        #cursor1.execute("""UPDATE bots SET status = %s WHERE id = %s""", ('on', request.form['idfa']))
+        #mariadb_connection.commit()
+        os.system('python script5.py {} {} {}'.format(UDP_IP, user, clave))
         return dashboard()
     else:
 

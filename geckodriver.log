@@ -52,3 +52,320 @@ JavaScript error: https://www.instagram.com/inbox/, line 289: Error: Requiring u
 1637789100196	Marionette	INFO	Stopped listening on port 55056
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637791695926	geckodriver	INFO	Listening on 127.0.0.1:60171
+1637791698990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60172" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileSitNcF"
+1637791699711	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileSitNcF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60172/devtools/browser/cbfbcbd2-9d06-4b62-a3ce-a0f9aa73b69a
+1637791703366	Marionette	INFO	Listening on port 60177
+1637791703817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637791726172	Marionette	INFO	Stopped listening on port 60177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637791969968	geckodriver	INFO	Listening on 127.0.0.1:60424
+1637791973036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60425" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileZY1Ua6"
+1637791973821	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileZY1Ua6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60425/devtools/browser/e031bbb1-ade1-48cd-9115-18626c658216
+1637791977842	Marionette	INFO	Listening on port 60431
+1637791977931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637791997241	Marionette	INFO	Stopped listening on port 60431
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637794316183	geckodriver	INFO	Listening on 127.0.0.1:50488
+1637794319252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50489" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileY5ZBUU"
+1637794320114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileY5ZBUU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50489/devtools/browser/62fa5f3f-1ae7-42ae-b3be-3b40b81059a9
+1637794324581	Marionette	INFO	Listening on port 50496
+1637794325110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637794655656	Marionette	INFO	Stopped listening on port 50496
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50573" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileeKJxfJ"
+1637794337928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileeKJxfJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50573/devtools/browser/65831f31-37c8-4f48-9580-932628995165
+1637794342901	Marionette	INFO	Listening on port 50581
+1637794343136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637794656660	Marionette	INFO	Stopped listening on port 50581
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50971" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile7NSydl"
+1637794638782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile7NSydl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50971/devtools/browser/aed44fc1-e21b-4f04-a496-1242b3049b99
+1637794642368	Marionette	INFO	Listening on port 50978
+1637794642468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637794657678	Marionette	INFO	Stopped listening on port 50978
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637794845163	geckodriver	INFO	Listening on 127.0.0.1:51252
+1637794848231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51253" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileehAO3J"
+1637794849094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileehAO3J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51253/devtools/browser/34be83b6-8828-4245-9580-564d2ba9d5b0
+1637794853214	Marionette	INFO	Listening on port 51260
+1637794853577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637794865915	Marionette	INFO	Stopped listening on port 51260
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637794881433	geckodriver	INFO	Listening on 127.0.0.1:51355
+1637794884489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51356" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile5iEjD3"
+1637794885051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile5iEjD3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51356/devtools/browser/18e47784-ff0f-4233-b8b8-a7c350beb8b6
+1637794888558	Marionette	INFO	Listening on port 51363
+1637794888719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637794903438	Marionette	INFO	Stopped listening on port 51363
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637794984081	geckodriver	INFO	Listening on 127.0.0.1:51493
+1637794987149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51494" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilepsvXTh"
+1637794987745	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilepsvXTh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51494/devtools/browser/50ce6683-5287-48fa-b690-c461a30cb2f1
+1637794991772	Marionette	INFO	Listening on port 51500
+1637794991996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637795001318	Marionette	INFO	Stopped listening on port 51500
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637795017286	geckodriver	INFO	Listening on 127.0.0.1:51609
+1637795020343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51610" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileP1vzX5"
+1637795020941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileP1vzX5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51610/devtools/browser/ba4d2a67-f481-4cb3-ae26-59294be48924
+1637795024739	Marionette	INFO	Listening on port 51616
+1637795025182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1637795501675	Marionette	INFO	Stopped listening on port 51616
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51811" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile0s3Kdj"
+1637795181491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile0s3Kdj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51811/devtools/browser/2c44116e-1d81-4415-9b31-fb8aeab84de5
+1637795185403	Marionette	INFO	Listening on port 51818
+1637795185762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637795500726	Marionette	INFO	Stopped listening on port 51818
+7795215709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51907" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileRsF4e9"
+1637795216309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileRsF4e9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51907/devtools/browser/4d3c2f2d-d82d-4af6-809d-15a502e098b8
+1637795220254	Marionette	INFO	Listening on port 51913
+1637795220535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637795500069	Marionette	INFO	Stopped listening on port 51913
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+_mozprofileRjTbem"
+1637795306292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileRjTbem\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52092/devtools/browser/e98ce1c3-1233-4ae6-8c0a-16afc44e581c
+1637795310262	Marionette	INFO	Listening on port 52098
+1637795310504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637795325756	Marionette	INFO	Stopped listening on port 52098
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637795336913	geckodriver	INFO	Listening on 127.0.0.1:52201
+1637795339963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52202" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileOdbQOf"
+1637795340636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileOdbQOf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52202/devtools/browser/1bdfcef9-0b3e-4e59-82be-7d4f5ae96b93
+1637795344846	Marionette	INFO	Listening on port 52209
+1637795345314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1637795499065	Marionette	INFO	Stopped listening on port 52209
+[GFX1-]: Failed to get descriptor for recorded texture.
+[GFX1-]: Killing GPU process due to IPC reply timeout
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 20344, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:402
+not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileXf1YEo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52403/devtools/browser/0b30fb22-423c-4acd-bb2b-73ec4a91a588
+1637795482176	Marionette	INFO	Listening on port 52409
+1637795482399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637795498230	Marionette	INFO	Stopped listening on port 52409
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637795514525	geckodriver	INFO	Listening on 127.0.0.1:52506
+1637795517585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52507" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilevjwWRK"
+1637795518232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilevjwWRK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52507/devtools/browser/c695c209-ff46-44ee-b4f6-ce0a20d41ce9
+1637795522524	Marionette	INFO	Listening on port 52514
+1637795522976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637795531026	Marionette	INFO	Stopped listening on port 52514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637795535642	geckodriver	INFO	Listening on 127.0.0.1:52614
+1637795538699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52615" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileGmQKIo"
+1637795539329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileGmQKIo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52615/devtools/browser/2232726a-3883-48fe-8ea9-45201d2ec165
+1637795543016	Marionette	INFO	Listening on port 52622
+1637795543530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637795559717	Marionette	INFO	Stopped listening on port 52622
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637795567724	geckodriver	INFO	Listening on 127.0.0.1:52707
+1637795570812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52708" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilerX1hi4"
+1637795571355	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilerX1hi4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52708/devtools/browser/97b4314d-303c-4121-a31e-bc7a16448b08
+1637795574821	Marionette	INFO	Listening on port 52714
+1637795575020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1637795594900	Marionette	INFO	Stopped listening on port 52714
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/5e56aa5e3b53.js, line 358: TypeError: this.props is undefined
+1637795609074	geckodriver	INFO	Listening on 127.0.0.1:52814
+1637795612141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52815" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileKXsE2Y"
+1637795612714	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileKXsE2Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52815/devtools/browser/479e0b49-3964-486b-8fa5-cde2bccea6a7
+1637795616775	Marionette	INFO	Listening on port 52822
+1637795616996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637795641297	Marionette	INFO	Stopped listening on port 52822
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637795657978	geckodriver	INFO	Listening on 127.0.0.1:52929
+1637795661051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52930" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileP4VaSv"
+1637795661589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileP4VaSv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52930/devtools/browser/6c9807db-0d03-48bc-bab6-94eeaf281d12
+1637795665179	Marionette	INFO	Listening on port 52936
+1637795665243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.es_419.987a3v9CaZk.es5.O/am=bAAAEA/d=1/excm=_b,_tp,appwidgetnoauthview/ed=1/dg=0/wt=2/esmo=1/rs=AM-SdHtUi4v0TY5kLNSlGKOpM6OePl48lg/m=_b,_tp, line 627: NS_ERROR_NOT_INITIALIZED: 
+1637795671141	Marionette	INFO	Stopped listening on port 52936
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637795675223	geckodriver	INFO	Listening on 127.0.0.1:53023
+1637795678270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53024" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile3jLoJS"
+1637795678861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile3jLoJS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53024/devtools/browser/f9a79fa9-cdfa-48e6-8989-61cb0d7ba98d
+1637795682424	Marionette	INFO	Listening on port 53030
+1637795682476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637795691299	Marionette	INFO	Stopped listening on port 53030
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637795706649	geckodriver	INFO	Listening on 127.0.0.1:53118
+1637795709696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53119" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilefAs7Kw"
+1637795710262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilefAs7Kw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53119/devtools/browser/02a24788-4696-4fb4-8f46-9af18efd3e12
+1637795713769	Marionette	INFO	Listening on port 53126
+1637795713904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1637795737253	Marionette	INFO	Stopped listening on port 53126
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/5e56aa5e3b53.js, line 358: TypeError: this.props is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637796105791	geckodriver	INFO	Listening on 127.0.0.1:53501
+1637796108859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53502" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilecY7ugM"
+1637796109604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofilecY7ugM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53502/devtools/browser/45654dc4-9962-4636-a091-0bd864122969
+1637796113097	Marionette	INFO	Listening on port 53508
+1637796113198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637796123051	Marionette	INFO	Stopped listening on port 53508
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637796470116	geckodriver	INFO	Listening on 127.0.0.1:53790
+1637796473202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53791" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileskOp8O"
+1637796473886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileskOp8O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53791/devtools/browser/1f3eb185-02d1-428a-b794-08a00d756b08
+1637796478036	Marionette	INFO	Listening on port 53797
+1637796478591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1637796535585	Marionette	INFO	Stopped listening on port 53797
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637796590547	geckodriver	INFO	Listening on 127.0.0.1:53990
+1637796593608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53991" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileHScTAa"
+1637796594221	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileHScTAa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53991/devtools/browser/e1b77bbb-629a-4341-a7a6-d91187216ca2
+1637796598203	Marionette	INFO	Listening on port 54097
+1637796598442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637797351254	Marionette	INFO	Stopped listening on port 54097
+[Parent 13572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637797387388	geckodriver	INFO	Listening on 127.0.0.1:60344
+1637797390470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60345" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileH88bxk"
+1637797391163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofileH88bxk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60345/devtools/browser/f71e98da-d33d-4dd9-acb7-cba462a5e174
+1637797395097	Marionette	INFO	Listening on port 60351
+1637797395307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1637797430918	Marionette	INFO	Stopped listening on port 60351
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637797439724	geckodriver	INFO	Listening on 127.0.0.1:60455
+1637797442794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60456" "-no-remote" "-profile" "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile5sntdD"
+1637797443385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USUARIO\\AppData\\Local\\Temp\\rust_mozprofile5sntdD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60456/devtools/browser/42b63eda-d5f6-4355-a870-5774d2168db2
+1637797447246	Marionette	INFO	Listening on port 60462
+1637797447613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
