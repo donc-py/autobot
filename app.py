@@ -109,7 +109,7 @@ def dof():
     if sys.platform == "win32":
         #cursor1.execute("""UPDATE bots SET status = %s WHERE id = %s""", ('on', request.form['idfa']))
         #mariadb_connection.commit()
-        os.system('python script5.py {} {} {}'.format(UDP_IP, user, clave))
+        os.system('python script6.py {} {} {}'.format(UDP_IP, user, clave))
         return dashboard()
     else:
 

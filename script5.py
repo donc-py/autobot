@@ -1,5 +1,6 @@
 from selenium import webdriver
 import time
+from selenium.common.exceptions import NoSuchElementException
 import datetime
 from time import gmtime, strftime
 from datetime import timedelta
